@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zone-1",
+    "name": "Central Delhi",
+    "lat": 28.6519,
+    "lng": 77.2315,
+    "status": "critical",
+    "energyDemand": 7200,
+    "waterPressure": 32,
+    "waterFlow": 1450,
+    "alert": "Hot sunny day, grid overload risk"
+  },
+  {
+    "id": "zone-2",
+    "name": "South Delhi",
+    "lat": 28.5355,
+    "lng": 77.2290,
+    "status": "warning",
+    "energyDemand": 6100,
+    "waterPressure": 38,
+    "waterFlow": 1280,
+    "alert": "Rain forecast, possible water surge"
+  },
+  {
+    "id": "zone-3",
+    "name": "North Delhi",
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "status": "normal",
+    "energyDemand": 5200,
+    "waterPressure": 42,
+    "waterFlow": 980,
+    "alert": null
+  },
+  {
+    "id": "zone-4",
+    "name": "East Delhi",
+    "lat": 28.6692,
+    "lng": 77.3117,
+    "status": "normal",
+    "energyDemand": 5800,
+    "waterPressure": 40,
+    "waterFlow": 1100,
+    "alert": null
+  },
+  {
+    "id": "zone-5",
+    "name": "West Delhi",
+    "lat": 28.6692,
+    "lng": 77.1134,
+    "status": "warning",
+    "energyDemand": 6500,
+    "waterPressure": 35,
+    "waterFlow": 1320,
+    "alert": "Increased consumption detected"
+  }
+]

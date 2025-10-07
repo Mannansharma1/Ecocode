@@ -1,0 +1,9 @@
+[
+  { "timestamp": "00:00", "demand": 4200, "supply": 4500, "prediction": 4300 },
+  { "timestamp": "04:00", "demand": 3800, "supply": 4200, "prediction": 3900 },
+  { "timestamp": "08:00", "demand": 5600, "supply": 5800, "prediction": 5700 },
+  { "timestamp": "12:00", "demand": 6800, "supply": 7000, "prediction": 7100 },
+  { "timestamp": "16:00", "demand": 7200, "supply": 7400, "prediction": 7500 },
+  { "timestamp": "20:00", "demand": 6500, "supply": 6800, "prediction": 6700 },
+  { "timestamp": "24:00", "demand": 5100, "supply": 5400, "prediction": 5300 }
+]

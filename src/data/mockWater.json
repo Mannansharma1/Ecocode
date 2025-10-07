@@ -1,0 +1,9 @@
+[
+  { "timestamp": "00:00", "flow": 850, "pressure": 42, "quality": 95 },
+  { "timestamp": "04:00", "flow": 720, "pressure": 45, "quality": 96 },
+  { "timestamp": "08:00", "flow": 1100, "pressure": 38, "quality": 94 },
+  { "timestamp": "12:00", "flow": 1350, "pressure": 35, "quality": 93 },
+  { "timestamp": "16:00", "flow": 1280, "pressure": 36, "quality": 94 },
+  { "timestamp": "20:00", "flow": 1150, "pressure": 40, "quality": 95 },
+  { "timestamp": "24:00", "flow": 920, "pressure": 43, "quality": 96 }
+]

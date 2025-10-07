@@ -1,0 +1,28 @@
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Navbar } from './components/Navbar';
+import { LandingPage } from './pages/LandingPage';
+import { DashboardPage } from './pages/DashboardPage';
+import { ZoneInsightsPage } from './pages/ZoneInsightsPage';
+import { AIModelInsightsPage } from './pages/AIModelInsightsPage';
+import { BusinessImpactPage } from './pages/BusinessImpactPage';
+import { ContactPage } from './pages/ContactPage';
+
+function App() {
+  return (
+    <Router>
+      <div className="min-h-screen">
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/dashboard" element={<DashboardPage />} />
+          <Route path="/zones" element={<ZoneInsightsPage />} />
+          <Route path="/ai-insights" element={<AIModelInsightsPage />} />
+          <Route path="/business" element={<BusinessImpactPage />} />
+          <Route path="/contact" element={<ContactPage />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+}
+
+export default App;
