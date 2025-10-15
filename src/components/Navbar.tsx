@@ -10,7 +10,6 @@ export const Navbar = () => {
     { path: '/', label: 'Home' },
     { path: '/dashboard', label: 'Dashboard' },
     { path: '/zones', label: 'Zone Insights' },
-    { path: '/ai-insights', label: 'AI Models' },
     { path: '/business', label: 'Business' },
     { path: '/contact', label: 'Contact' },
   ];
@@ -23,7 +22,7 @@ export const Navbar = () => {
             <div className="w-10 h-10 bg-gradient-to-br from-[#7FC8A9] to-[#326B5D] rounded-lg flex items-center justify-center">
               <Zap className="w-6 h-6 text-white" />
             </div>
-            <span className="text-xl font-bold text-[#326B5D]">EcoGrid AI</span>
+            <span className="text-xl font-bold text-[#326B5D]">CityShield</span>
           </Link>
 
           <div className="hidden md:flex items-center gap-1">

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-10-15T08:30:00Z",
+    "zone": "Connaught Place",
+    "type": "Voltage Spike",
+    "severity": "critical",
+    "resolved": false
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-10-15T09:15:00Z",
+    "zone": "Janakpuri",
+    "type": "Water Pressure Drop",
+    "severity": "warning",
+    "resolved": true
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-10-15T10:00:00Z",
+    "zone": "Dwarka",
+    "type": "Grid Failure",
+    "severity": "critical",
+    "resolved": false
+  },
+  {
+    "id": 4,
+    "timestamp": "2025-10-15T10:30:00Z",
+    "zone": "Karol Bagh",
+    "type": "Water Contamination",
+    "severity": "warning",
+    "resolved": true
+  },
+  {
+    "id": 5,
+    "timestamp": "2025-10-15T11:00:00Z",
+    "zone": "Lajpat Nagar",
+    "type": "Voltage Drop",
+    "severity": "resolved",
+    "resolved": true
+  },
+  {
+    "id": 6,
+    "timestamp": "2025-10-15T11:30:00Z",
+    "zone": "Saket",
+    "type": "Pump Failure",
+    "severity": "critical",
+    "resolved": false
+  },
+  {
+    "id": 7,
+    "timestamp": "2025-10-15T12:00:00Z",
+    "zone": "Hauz Khas",
+    "type": "Pressure Spike",
+    "severity": "warning",
+    "resolved": false
+  },
+  {
+    "id": 8,
+    "timestamp": "2025-10-15T12:30:00Z",
+    "zone": "Pitampura",
+    "type": "Grid Overload",
+    "severity": "critical",
+    "resolved": false
+  },
+  {
+    "id": 9,
+    "timestamp": "2025-10-15T13:00:00Z",
+    "zone": "Vasant Kunj",
+    "type": "Water Flow Drop",
+    "severity": "warning",
+    "resolved": true
+  },
+  {
+    "id": 10,
+    "timestamp": "2025-10-15T13:30:00Z",
+    "zone": "Nehru Place",
+    "type": "Transformer Fault",
+    "severity": "critical",
+    "resolved": false
+  }
+]
