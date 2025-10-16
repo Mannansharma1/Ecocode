@@ -12,6 +12,7 @@ export const Navbar = () => {
     { path: '/zones', label: 'Zone Insights' },
     { path: '/business', label: 'Business' },
     { path: '/contact', label: 'Contact' },
+    { path : '/login', label: 'Login/Signup' },
   ];
 
   return (
