@@ -81,19 +81,19 @@ export const BusinessImpactPage = () => {
 
   const stakeholders = [
     {
-      name: "Municipal Corporations",
+      name: "Municipal Corporations of DELHI & NCR",
       description:
         "Urban local bodies managing waste, water, and energy optimization under the Smart City Mission.",
       icon: Building2,
     },
     {
-      name: "Industrial Parks & Utilities",
+      name: "Industrial Parks & Utilities (DLF, BSES, Tata Power)",
       description:
         "Factories and energy boards aiming to reduce operational overheads via AI forecasting.",
       icon: Factory,
     },
     {
-      name: "Environmental Programs",
+      name: "Environmental Programs (Govt. of India)",
       description:
         "Central and state initiatives like AMRUT 2.0 and National Clean Air Mission integrating AI.",
       icon: Globe,
@@ -142,11 +142,11 @@ export const BusinessImpactPage = () => {
   ];
 
   const energyData = [
-    { year: "2021", value: 60 },
-    { year: "2022", value: 80 },
-    { year: "2023", value: 110 },
-    { year: "2024", value: 140 },
-    { year: "2025", value: 175 },
+    { year: "October", value: 60 },
+    { year: "November", value: 80 },
+    { year: "December", value: 110 },
+    { year: "January", value: 140 },
+    { year: "February", value: 175 },
   ];
 
   return (

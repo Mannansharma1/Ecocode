@@ -226,8 +226,8 @@ export const ContactPage = () => {
             <Card className="bg-gradient-to-r from-[#7FC8A9] to-[#326B5D] text-white py-8 rounded-2xl shadow-md">
               <h3 className="text-2xl font-semibold mb-2">Ready to Transform Your City?</h3>
               <p className="text-white/90 text-sm mb-5">
-                Join us in making India Cleaner & Greener 🌱  
-                Together, we build sustainable, smarter cities.
+                Join us in making India Cleaner & Greener  
+                Together, We build sustainable, smarter cities.
               </p>
               <div className="flex flex-wrap justify-center gap-8">
                 <div>
@@ -246,3 +246,4 @@ export const ContactPage = () => {
     </div>
   );
 };
+  
